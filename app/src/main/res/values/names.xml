@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_names">
+        <item>Avery</item>
+        <item>Bailey</item>
+        <item>Blair</item>
+        <item>Cameron</item>
+        <item>Casey</item>
+        <item>Dakota</item>
+        <item>Drew</item>
+        <item>Emerson</item>
+        <item>Harley</item>
+        <item>Hayden</item>
+    </string-array>
+</resources>

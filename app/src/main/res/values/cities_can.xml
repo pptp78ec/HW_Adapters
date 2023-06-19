@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_can">
+        <item>Ottawa</item>
+        <item>Edmonton</item>
+        <item>Victoria</item>
+        <item>Winnipeg</item>
+        <item>Fredericton</item>
+        <item>Halifax</item>
+        <item>Toronto</item>
+        <item>Charlottetown</item>
+        <item>Quebec City</item>
+        <item>Whitehorse</item>
+    </string-array>
+</resources>

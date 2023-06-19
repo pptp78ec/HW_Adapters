@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_aus">
+        <item>Sydney</item>
+        <item>Adelaide</item>
+        <item>Brisbane</item>
+        <item>Melbourne</item>
+        <item>Perth</item>
+        <item>Canberra</item>
+        <item>Hobart</item>
+        <item>Darwin</item>
+        <item>Cairns</item>
+        <item>Newcastle</item>
+    </string-array>
+</resources>

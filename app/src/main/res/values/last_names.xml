@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_lastnames">
+        <item>Taylor</item>
+        <item>Anderson</item>
+        <item>Thomas</item>
+        <item>Jackson</item>
+        <item>White</item>
+        <item>Harris</item>
+        <item>Martin</item>
+        <item>Thompson</item>
+        <item>Black</item>
+        <item>Shackleton</item>
+    </string-array>
+</resources>

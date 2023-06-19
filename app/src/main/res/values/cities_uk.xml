@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_uk">
+        <item>London</item>
+        <item>Manchester</item>
+        <item>Dublin</item>
+        <item>Perth</item>
+        <item>Oxford</item>
+        <item>Plymouth</item>
+        <item>Portsmouth</item>
+        <item>Sheffield</item>
+        <item>Southampton</item>
+        <item>Winchester</item>
+    </string-array>
+</resources>
